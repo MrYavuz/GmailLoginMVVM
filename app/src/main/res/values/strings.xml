@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GmailLoginMVVM</string>
+    <string name="server_client_id">973228710465-figglqneehetqbk26plaa1e6uo5hrcbe.apps.googleusercontent.com"</string>
+    <string name="welcome">"Welcome ! "</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+</resources>
